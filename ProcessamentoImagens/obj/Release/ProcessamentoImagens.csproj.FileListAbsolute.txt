@@ -1,0 +1,5 @@
+C:\Users\manol\Desktop\Facul\6º termo\Tópicos em Tecnologia\Trabalho 1º bim\ProcessamentoImagens\ProcessamentoImagens\obj\Release\ProcessamentoImagens.csproj.AssemblyReference.cache
+C:\Users\manol\Desktop\Facul\6º termo\Tópicos em Tecnologia\Trabalho 1º bim\ProcessamentoImagens\ProcessamentoImagens\obj\Release\ProcessamentoImagens.frmPrincipal.resources
+C:\Users\manol\Desktop\Facul\6º termo\Tópicos em Tecnologia\Trabalho 1º bim\ProcessamentoImagens\ProcessamentoImagens\obj\Release\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\manol\Desktop\Facul\6º termo\Tópicos em Tecnologia\Trabalho 1º bim\ProcessamentoImagens\ProcessamentoImagens\obj\Release\ProcessamentoImagens.csproj.GenerateResource.cache
+C:\Users\manol\Desktop\Facul\6º termo\Tópicos em Tecnologia\Trabalho 1º bim\ProcessamentoImagens\ProcessamentoImagens\obj\Release\ProcessamentoImagens.csproj.CoreCompileInputs.cache
